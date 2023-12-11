@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Martinez Santos</h1>
-<h3 align="center">Hi, im Alejandro martinez Santos,im studying electrical enginnering, approximately 1 year ago i have been pratice coding how hobby, i know programmin lenguajes as python,java and javascript, too i have knowledge about databases as mysql and postgreSQL and i hope become in a expert in java or python.</h3>
+<h3 align="center">Hi, im Alejandro martinez Santos,im studying electrical enginnering, approximately 1 year ago i have been pratice coding how hobby, i know programmin lenguajes as python, java and javascript, too i have knowledge about databases as mysql and postgreSQL and i hope become in a expert in java or python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainthazzard&label=Profile%20views&color=0e75b6&style=flat" alt="sainthazzard" /> </p>
 
